@@ -1,18 +1,31 @@
-## Getting Started
+# 🎓 Projetos Bootcamp 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Junior-Hugos/Bootcamp-Santander-Dio-Projetos/blob/main/LICENSE)
 
-The workspace contains two folders by default, where:
+# 💼 Sobre o projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<p>
+  Foi criado esse repositório com o objetivo de estar implementando os projetos no decorrer do curso para que eu possa ter um acompanhamento do meu desenvolvimento ao longo da minha trajetória neste Bootcamp. Estarei atualizando o README com as habilidade que eu for adquirindo, tal como os projetos desenvolvidos.
+</p>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# ✅ Objetivo
+<p>
+  Tenho como objetivo a aquisição de habilidade que venha me qualificar para o mercado de trabalho e assim contribuir em um futuro próximo nas implementações de projetos na empresa que eu vir a trabalhar
+</p>
 
-## Dependency Management
+# 💻 Tecnologias e Ferramentas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)
+
+
+# 🤵 Autor 
+
+<h3>Edmilson Júnior</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/edmilsonjunior87/)
