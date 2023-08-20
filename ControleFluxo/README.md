@@ -19,3 +19,16 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)
+
+
+# 🤵 Autor 
+
+<h3>Edmilson Júnior</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/edmilsonjunior87/)
+
+
+
