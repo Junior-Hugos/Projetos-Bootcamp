@@ -1,4 +1,4 @@
 
-public class ParametrosInvalidosException extends exception {
+public class ParametrosInvalidosException extends Exception {
 
 }
